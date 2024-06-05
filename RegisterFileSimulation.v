@@ -1,10 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: ITU Computer Engineering Department
-// Engineer: Kadir Ozlem
-// Project Name: BLG222E Project 1 Simulation
+// Mustafa Bozdoğan, Enes Saçak
 //////////////////////////////////////////////////////////////////////////////////
-
 module RegisterFileSimulation();
     reg[15:0] I;
     reg [2:0] OutASel, OutBSel, FunSel;

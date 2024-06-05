@@ -1,10 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: ITU Computer Engineering Department
-// Engineer: Kadir Ozlem
-// Project Name: BLG222E Project 1 Simulation
+// Mustafa Bozdoğan, Enes Saçak
 //////////////////////////////////////////////////////////////////////////////////
-
 
 module ArithmeticLogicUnitSystemSimulation();
     reg[2:0] RF_OutASel, RF_OutBSel, RF_FunSel;
